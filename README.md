@@ -2,8 +2,6 @@
 
 ### Proyecto final del IBM Data Science
 
-**Stack principal:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly, Dash, Folium, BeautifulSoup, SQLite
-
 ---
 
 ## Objetivo
